@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module3"
+Attribute VB_Name = "Module1"
 Sub exportingTabs()
 
 ' this program individually prints the tabs of a workbook, saving the PDF as the name of the tab within the same folder as the excel file.
